@@ -1,0 +1,4 @@
+ prints [bio-emily jones-the origin of species-1965] to the screen
+ prints [23654585-emily jones-89.99] to the screen
+System.out.println (b1); should print: the origin of species by emily jones published in 1965, biology
+System.out.println (b2); prints: 23654585: the origin of species by emily jones published in 1965, $89.99
